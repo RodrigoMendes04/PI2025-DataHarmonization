@@ -1,0 +1,12 @@
+geopandas
+pandas
+numpy
+shapely
+folium
+duckdb
+fuzzywuzzy
+python-Levenshtein
+requests
+pdfplumber
+geopy
+gspread
