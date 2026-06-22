@@ -25,7 +25,7 @@ Foram desenvolvidos 6 notebooks principais para diferentes domínios:
 | **02. Autocarros** | WFS, GTFS (STCP), OSM | Auditoria de paragens de autocarro. |
 | **03. Escolas** | WFS, GesEdu, OSM, Overture | Reconciliação semântica de nomes de escolas. |
 | **04. Saúde** | WFS, OSM, Overture | Validação de Farmácias, USF e Hospitais. |
-| **05. Social** | WFS, PDF (Guia), OSM | Digitalização e validação de IPSS e Lares. |
+| **05. Social** | WFS, PDF ([Guia de Recursos Sociais](https://bit.ly/grsmm25)), OSM | Digitalização e validação de IPSS e Lares. |
 | **06. Hidrografia** | WFS, OSM | Verificação de linhas de água e ribeiras. |
 
 ## 🚀 Como Executar
@@ -39,7 +39,7 @@ Os notebooks foram desenhados para correr em **Google Colab**.
 O sistema gera mapas interativos onde os conflitos são desenhados a vermelho/laranja e os *matches* a verde.
 
 ## 📄 Documentação
-O Relatório Final de Estágio completo e o Logbook de desenvolvimento encontram-se na pasta `docs/`.
+O Relatório Final de Estágio completo encontra-se na pasta `docs/`.
 
 ---
 **Orientador:** Eng. Pedro Pimenta (CM Maia)  
